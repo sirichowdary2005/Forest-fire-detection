@@ -1,1 +1,0 @@
-# Forest-fire-detection
